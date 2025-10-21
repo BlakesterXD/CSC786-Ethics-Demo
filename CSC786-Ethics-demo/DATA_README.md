@@ -6,3 +6,7 @@ Example entry format (udpate to match your data):
 - {"timestamp_utc": "...", "endpoint": "...", "params": {...}, "output": "...", "sha256": "..."}
 
 ---
+
+- {"timestamp_utc": "2025-10-21T190729Z", "endpoint": "https://api.open-meteo.com/v1/forecast", "params": {"latitude": 44.6, "longitude": -96.8, "hourly": "temperature_2m", "forecast_days": 1}, "output": "hourly_temps_2025-10-21T190729Z.csv", "sha256": "979ce22b7fea00c2faae00e74f2283cf134ac44acfa3350366017ad7fa5c7a3b", "python": "3.12.12", "pandas": "2.2.2", "requests": "2.32.4"}
+- {"timestamp_utc": "2025-10-21T190809Z", "endpoint": "https://api.open-meteo.com/v1/forecast", "params": {"latitude": 44.6, "longitude": -96.8, "hourly": "temperature_2m", "forecast_days": 1}, "output": "hourly_temps_2025-10-21T190809Z.csv", "sha256": "979ce22b7fea00c2faae00e74f2283cf134ac44acfa3350366017ad7fa5c7a3b", "python": "3.12.12", "pandas": "2.2.2", "requests": "2.32.4"}
+- {"timestamp_utc": "2025-10-21T190826Z", "endpoint": "https://api.open-meteo.com/v1/forecast", "params": {"latitude": 44.6, "longitude": -96.8, "hourly": "temperature_2m", "forecast_days": 1}, "output": "hourly_temps_2025-10-21T190826Z.csv", "sha256": "979ce22b7fea00c2faae00e74f2283cf134ac44acfa3350366017ad7fa5c7a3b", "python": "3.12.12", "pandas": "2.2.2", "requests": "2.32.4"}
