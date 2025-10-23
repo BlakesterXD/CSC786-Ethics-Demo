@@ -1,2 +1,0 @@
-
-- {"timestamp_utc": "2025-10-23T181933Z", "endpoint": "https://api.open-meteo.com/v1/forecast", "params": {"latitude": 44.6, "longitude": -96.8, "hourly": "temperature_2m", "forecast_days": 1}, "output": "hourly_temps_2025-10-23T181933Z.csv", "sha256": "1fee45f7ccbc1276cbb65ad4c07845fce46f04fcbbb4b9ad155cc3ce4c8f0296", "python": "3.12.12", "pandas": "2.2.2", "requests": "2.32.4"}
